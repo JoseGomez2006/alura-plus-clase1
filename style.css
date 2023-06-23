@@ -85,3 +85,13 @@
     .secundaria-texto{
     color: var(--cinza-secundario);
     }
+
+    .dispositivos-lista{
+        display:flex;
+        list-style-type: none;
+        margin: 88x 0;
+    }
+        .dispositivos{
+            text-align:center;
+        }
+    
